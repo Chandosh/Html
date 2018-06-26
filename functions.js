@@ -3,9 +3,7 @@ window.onload = function () {
     deleteContact();
     updateContact();
 }
-function dummy()
-{
-}
+
 
 function add() {
     var name = document.getElementById("name").value;
